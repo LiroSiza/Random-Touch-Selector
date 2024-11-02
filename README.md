@@ -1,6 +1,4 @@
-# Generar el contenido del README en formato Markdown y guardarlo en un archivo .md
-readme_content = """
-# Android MultiTouch Demo
+# Random Touch Selector
 
 Este proyecto es una demostración interactiva de la capacidad multitáctil en Android, diseñada para gestionar y visualizar múltiples puntos de toque en una interfaz gráfica. Utilizando la clase `CLienzo`, el proyecto permite a los usuarios tocar la pantalla con varios dedos, mostrando la ubicación de cada punto de toque en tiempo real.
 
@@ -20,4 +18,4 @@ Este proyecto es una demostración interactiva de la capacidad multitáctil en A
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/Android-MultiTouch-Demo.git
+   git clone https://github.com/tu-usuario/Random-Touch-Selector.git
